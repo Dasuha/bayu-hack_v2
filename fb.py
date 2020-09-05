@@ -15,8 +15,8 @@ cls()
 os.system(['','color D'][os.name == 'nt'])
 
 print '''
-                    KEVIN HACK
-           CODE: BY K3V1N H4CK
+                    ElgaDasuha
+           CODE: BY ElgaDasuha
      FACEBOOK RECOVERY PASSWORD ATTACKER
   
  _____              _                 _
@@ -25,7 +25,7 @@ print '''
 |  _| (_| | (_|  __/ |_) | (_) | (_) |   <
 |_|  \__,_|\___\___|_.__/ \___/ \___/|_|\_\                                '''
 if len(sys.argv) != 3:
-    print "\n\n[#] Penulisan: python2 fb.py [TagetID] [listkode.txt] "
+    print "\n\n[#] Penulisan: python2 dark.py [TagetID] [listkode.txt] "
     sys.exit()
 
 target = sys.argv[1]
